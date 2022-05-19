@@ -1,8 +1,7 @@
 const Blog = () => {
   return (
-    <div>Blog</div>
+    <div className="p-20 resize-y shadow-2xl rounded-xl bg-gradient-to-l justify-center flex  ">Blog</div>
   )
 }
 
-//  ?? EPERM  EPERM: operation not permitted, rename 'D:\personal\myBlogs\node_modules\@mdx-js\react' -> 'D:\personal\myBlogs\node_modules\.ignored\@mdx-js\react'
 export default Blog
